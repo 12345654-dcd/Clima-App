@@ -1,5 +1,4 @@
 Flask
 requests
 datetime
-sqlite3
 cohere
